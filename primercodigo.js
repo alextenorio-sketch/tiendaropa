@@ -1,0 +1,1 @@
+console.log("bienvenido a la tienda de ropa");
