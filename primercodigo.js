@@ -1,1 +1,1 @@
-console.log("bienvenido a la tienda de ropa");
+const descripcion =" en este proyecto tenemos muchas dudas "
